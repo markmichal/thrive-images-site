@@ -1,0 +1,4 @@
+.DS_Store
+# Copy of the Google Doc: it has Canva editor links in it, so keep it off GitHub.
+tools/thrive-images-doc-*.md
+__pycache__/

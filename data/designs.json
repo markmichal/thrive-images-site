@@ -1,0 +1,6355 @@
+{
+ "updated": "2026-10-31",
+ "types": {
+  "Square": {
+   "about": "Plain photo, no words. Used in the app on review cards."
+  },
+  "Square Shaded": {
+   "about": "Photo with a dark shade."
+  },
+  "Review Card": {
+   "about": "Review card for the app. Has words."
+  },
+  "Vertical": {
+   "about": "Tall phone image. Has words."
+  },
+  "Circle": {
+   "about": "Round photo for the app."
+  },
+  "Study Extra": {
+   "about": "One-off images for a single study: charts, diagrams, icons."
+  },
+  "Series Image": {
+   "about": "One per series, with a dark mode copy."
+  },
+  "Series App Image": {
+   "about": "Series image for the app."
+  },
+  "Header": {
+   "about": "The old study headers. The doc marked them \"not in use\", but some countries still use them."
+  }
+ },
+ "levels": [
+  {
+   "id": "start",
+   "name": "Start",
+   "series": [
+    {
+     "name": "Start studies",
+     "studies": [
+      {
+       "name": "CONFIDENCE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5vZNLHow/HwWVWYs65gRL4eI1s6TzKw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5sQI-su0/IQUucUmMDmj_qwpFrgY2-w/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vtpEpHc/kR469v2bYmQ6E0nJI66SMw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5wt7QBE/uilQpe6GBHJER5UAjEyeMw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "1-10 Scale",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD7gsk3MOg/34TvBzlFvjCAetYhDEnR_A/view",
+         "words": false,
+         "w": 816,
+         "h": 144
+        },
+        {
+         "name": "Plane Picture",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAEvRm24nXY/A3s5fx5U_6PYVIsFfWyk-g/view",
+         "words": false,
+         "w": 500,
+         "h": 250
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ip0xC8Q/w8824JHn0sjbG_vHh_eRNw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "RECONNECT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5vVywgmM/RZpaDbiTFpfB2hD12TDMOw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5hGBeHXM/QlRT7btctxK5AxtPTXFnOw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vgTJZ_I/Jq7RJNZ9rB3ykCUFERlsfA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH53O_U9g/DVKSVOxBAULd0YaIaRfL5w/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Wrecked car",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD9fXoWdts/cYWVwRRahUzL6XdLkgcjAA/view",
+         "words": false,
+         "w": 1920,
+         "h": 1080
+        },
+        {
+         "name": "RECONNECT - Notebook & Pencil",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD-uKNlYes/3xel7G6gRX5qH_7kh82EkA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5vaoJTg4/zWh6bm5vI6c03-plJIiM8A/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "PLUG IN",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5veY8bWk/X6o9gRXUlD6ts9O8s55U-g/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5hKGvm2M/hCnWMoDQApO0djqZYT-IUg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAEtS7nh42Q/atCsdfuE6EmcNbEQwH1kbA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEtS6CUl68/GY4jGjFWNVnx5_KUb433sw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "POWER- phone",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD8DnHsMoo/SoTyBG0c9Jwq5ThNN-srHA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "POWER - cord",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD8DklmWpQ/MhpLYgHIV3FSRGxGAzUVzw/view",
+         "words": false,
+         "w": 1920,
+         "h": 400
+        },
+        {
+         "name": "POWER - cord Dark Mode",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGffV2AgCY/CLfQRtCEX5QJhNCs_lCcvw/view",
+         "words": false,
+         "dark": true,
+         "w": 1920,
+         "h": 400
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAEtS8SwPUo/YsNn3Dff9UjQ_F-3GXDN9g/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GROWTH",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5vQTmQ0M/v9pispXNh95Ats1PG-k16Q/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5sRHf3uU/NrAVZIFDWFWBt1HFz1WVjw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vjw6cMc/Ado45hOr6I8RDCpCNKmLkA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH54lXO-c/HR0BFOvJtOdebwdM7EROpQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Growth Tree",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGfAC6orm4/aSOQjMd6QmEXgaWVuWcF4w/view",
+         "words": true,
+         "w": 576,
+         "h": 1056
+        },
+        {
+         "name": "Bible Sandwich",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD7goOsPmE/QbyZUHYVZTddyD59a_tq2w/view",
+         "words": true,
+         "w": 816,
+         "h": 264
+        },
+        {
+         "name": "Bible Sandwich Dark Mode",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGfAJ8eiXI/WteGy_w8Wpi4jIgztsLbig/view",
+         "words": true,
+         "dark": true,
+         "w": 816,
+         "h": 264
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5vc1A0cQ/iUb8EfXQHxOSMPkv6C8r9Q/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "OTHER IMAGES",
+       "images": [
+        {
+         "name": "Series Title",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD7apEz_JY/9cbpUURub_IdjyW04isK-w/view",
+         "words": true,
+         "w": 900,
+         "h": 506
+        },
+        {
+         "name": "Series Website",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD9DWWiAxA/6KcVV_KOdD2mCPOiL8FNAg/view",
+         "words": true,
+         "w": 816,
+         "h": 264
+        },
+        {
+         "name": "START Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9C41vv-k/bdZPykJ3WXWsM98vP_UMxQ/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "START Header Dark Mode",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAGfffrHX5A/yA5Cc1wUvr1odxFL5sKNjA/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "walk",
+   "name": "Walk",
+   "series": [
+    {
+     "name": "JESUS",
+     "studies": [
+      {
+       "name": "NEW",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5vUAHXU0/SyIw9qaf8SKoBlrVJ5msqg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5suy8ymo/atstZJxEeAYxCmff_pRSKw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vlfflRU/tLsCCOll4DoagzK0HuvIlQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHfYl1nJs/XBj2wpgfAsxB6EoVKMDnVg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD5o4QcUZg/PNheolhTukx6JMAC4DVrtw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ixmJXt8/1KPeVlS-CvXTRn2-17rPdw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "TEACHER",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXMlChfNY/s1jRCJQ_5yc_MXpCMYj4RQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5soLRvEk/nK3_ytCWirSs-Dhul-4R-Q/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXMtri0M0/D471p0TyS8nO8Riaz1_Cpw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAFXMg_jy80/m4VuM_c88Fm6p-ptkxMmNw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD5zx_cKe4/AEYLqCgHTlWZJxUvjruFsw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXMvQqObg/Q7PiAT_xgXOQ1_jUDwTj-w/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "PAYMENT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSdB2ABA/nqwbQSxKSl4mUjJ10R9qgA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAFXSQR0PBs/CRWKwA7rfW6qDk_w-k9fAQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXSRylblc/J5aVpEPTGPg6F34WJFaFUQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHfiuhEqE/nQxiegPf6xfCuq4kRiNU-Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50CQW7aM/7Pjw3s1J1s7jAXFLIPSBHA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5i4xYEEY/Z7JiTf_G3Nb-a7CAFc87ww/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "RESURRECTION",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSdHbqEA/PdvGmKTmWaNOTl9jCoqwrA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF5sgSQ32M/M5zsLXaFCVyy7yap-i3bRg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vmcDzEk/Z21jVV7m9h8NKZmgOxWPqA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHfohLl9k/eniwFqoq3Ghh2i1E9yVtmw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50AInpsQ/KyL2cm91xXy1X1GiTgI1RQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5i9v4HZc/phwWDQPBjjyRhFOdlxznag/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GROWING WITH GOD",
+     "studies": [
+      {
+       "name": "READ",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSWQTnT4/elu6sWXFYPiihVLUNunZvg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Ah0XqEA/tvOEl5Ux9oIQGYMUU__LOA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vte6abM/wZOe3PoS5kI-yhtj-YVL4w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiS73VkY/DAAByys6rQ135boYVJv1Fw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50GTCAh4/AlVyHa-vCEQ21qb0meVXNw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jAqB4cA/FEaDtcYzsKQpfC4dxzxBfw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "PRAY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSRGcxv4/M7eH7AhKa8LuD5eIqH8wmw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AqIyi64/2k9YsnlGlA3B_tyqp27jAg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vm8SFDc/UPTM8CTeG5OSMzUOn_ECSA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHffonhGs/spiBqg0D0xkesvnTHs5xjw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50G0t3JI/DDr7jU65QW6cMKvTRCkuLg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jPPRbIA/mjKlJS0wbzUD_vaxk3ooAw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "SHARE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSXnTYXQ/Yw9sVqO4E19zP-eF6LNakA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AsyUTLk/eO1gFirCZzzcfgTDZZqDvw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vuP4cfQ/Z-kOQ5MtAA3fmrdMNNRs2g/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiZLwtSQ/FMhl9ghRcOCXz2x0kMnjSw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeOFaWuY/81ZPqsKm145yEpRsSskqIA/view",
+         "words": false
+        },
+        {
+         "name": "SHARE long",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeBr_K3s/fHT6HnB68XCYkaXLPOim0A/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXeMaAeVE/zr5EdtEmQy7mU4h2LQG8Rg/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "MEET",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSRhLDww/T7LsUoXA6gr0kG2V2Ll9Kg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AsRh73Q/qtJzX5TUrJPtvmO0qjVANA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD7_Wme_tI/WVzEVlIsA6hgDk3EejqatQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiceKKFo/UIR-s3Nu80k3HggBwynijw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50OqLb20/KWmoExBvE6oE5WjnYwnWSw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jJXQ7vQ/7hvrfFx-EhwAc0baORQrvQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "POWER UP",
+     "studies": [
+      {
+       "name": "HOLY SPIRIT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSSB_vTI/FX-u9rUrDczbYmjRO9Cbrw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Ar_1seI/FGaslfKnN2AV0yuQabaiLQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vn-e_98/JI3scVy7q882rxGA28iZIg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiRpR9Dc/d4gAeknRNPGyfPqSS6IAuQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50sm3oe4/vVvEqcamUBl5HAKdfFNRpA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Three Circles Image",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAGkiZsLZQ8/OHHYthtZbw-G8FP_kPpbKA/view",
+         "words": true,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Three Circles Image - Student",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAGkiTRmghI/nNvJAN9gXXTo6v56_dXqRw/view",
+         "words": true,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jPe9GtE/WTr-R-A8MyGQxibjBDqzJQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "BREATHE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD9Zdu0RPc/v_lPnV2AgbPd6DwX78zyig/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AvzjOAI/1RfR-LODDfUNA4cDyUriBQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD9ZSDrA3Q/2Uswqxj_Vbvv3Phv1zih2g/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiVQZgho/jODGbCTQyXrrljrbgoVHFA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAEQnXTME5E/O9-VZ-cedM9z0Rj6h5HIiw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "BREATHE Christ Lives In Me",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkiSCFLN4/F-gPEOBQaOPWTW-c-6nVwg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9ZR0vTbI/jn3pAb_p2gvGmROl3rzzEA/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "LOVE BY FAITH",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD5vUkdTD8/_ffjF5wZiBYCzYq3fpHxMw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7ApTDSEw/Tp4Y8xVRnyrzFqwfhZqJLw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vrxxz9M/iA-Lfm-O75F2fiSofn3spw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiSgtYyM/Zbm2Y1UjE1SXd7Chz0sUQw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50g-__ag/1H8RhM2s0Db7Vy6iOTLxbA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jEoPXEM/LiDGrqArTg9iSSAshFkY-Q/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "TELLING OTHERS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSRA_9FM/GD3BR1oZryrMQTK-3SSwuQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Ahng9NA/k822FrwsqAMcOaq6B2xBMw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vtCV2QI/WndRPU1Zjlt7LIJ9dP9R9A/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiXmJ-gc/fr9Xl9aIGKaAOcPPMsR5_Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50tL5W7w/rqH7X5uHl5S643TRCW18vQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jEfE_2w/kYmfz1dY1bLda2LfxFgwVw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "EMPOWER",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSRUCQvE/dyQYOaNT3mYJHev5oy9mMQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGk0jVTwPs/e0zrF0H4KUponFg-_dI9Pw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vtq2UaM/jWm8MtoHPLIkrq7HT_OWCQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiVotYkk/cN0pZ1PVJzPmK4yK61Zpcg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "",
+         "words": false,
+         "status": "hidden",
+         "note": "The doc had a Canva editor link here (opens the master). Needs a template link before it can show."
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "",
+         "words": true,
+         "note": "The doc had a Canva editor link here (opens the master). Needs a template link before it can show.",
+         "status": "hidden"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BIBLE",
+     "studies": [
+      {
+       "name": "TOUR",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSRFsTzM/mMzdi4LkvD_nx7jIvzNsgg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7As4cKq8/d3UoSZ3FCXBqx3c_z5Ielw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vuDc6q8/gpbhwNzfuF_vct6EQAImIQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiRyj35E/gOueo-1W8bD10JbAAQS1WA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50rfqogc/NKn1M3dBuWfOAxr9qo_FsA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD-nJodHNc/Oy9-jD2_KutTZFYju7IVtw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "DIG IN",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSW-2N60/PHD409IUAEp8SUPWny94vw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AquXVQE/nCNT9mwSK1DY__RXFnJPuA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vuRBGFs/3VaP5dy6qqj0f1HTzMmLMw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkibgfPuY/laUAo8K0dOuoWgAJkP1HLg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50oK2b4E/E4jtkbe6-_K0-jJGiMfOgg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "3 symbol bookmark",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAEs0Otd04o/2PHQUHdbvhqmQF_APDBKKw/view",
+         "words": true
+        },
+        {
+         "name": "3 symbol bookmark Dark Mode",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGgNwf5nrU/4Cyxs-MS5zPi5k2EAjJblQ/view",
+         "words": true,
+         "dark": true,
+         "w": 800,
+         "h": 2000
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9MUjgxFE/VtW_VSg9BP7bq8fw9G33dg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "UNSHAKABLE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSXrkhi8/Pd6UYBtLZ1jGLcivioHqLA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AhRyM20/lURdSvyLjnWYOvKhr0j98Q/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vnyiryY/g5y4yUDcQnb2OBvm82e28A/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkidDU0wg/17oEi9LiNRIhp64JyQSaqQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50kHhLCQ/vQMlsrMOTXfjhzbredoChg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jJCHchE/EqAqC8RxWolNAgnY4Ggs-w/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "UNLOCK",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSfzvek0/3gAgSd6lXd5Y2KERpe4Tkw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7An6x3i4/dGnlqJxMGvSkIJYeIL2M1A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vk2EqiA/Kgy6f0I3LLfOtctX605veQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiUX0qEo/cg24lYiRtNTxxuzVLIV7Jg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50m2_g-c/SRBWvdyUkjZzIBPelCsqQA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jMdyCZ4/fSwajFu8J4Eulknd6yab4Q/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ME",
+     "studies": [
+      {
+       "name": "MY STORY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSdCZjQo/MNwiC69ldCaoLxdwCBk5tQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Ar3OOgo/rzs1dTKWbc7Qv5lyhjV9BQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vjsOTSU/tk9q5aNjdzcZIFnWVY04XQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiXQ4CH4/gKXgYxiV0KpbkT78Uc_gPw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD50ktdz4M/xMBhWsHEicRpsurPxinQbw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jN4t38A/jmebj_qPdv4FTLkAkc3UXw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "WHO AM I?",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSSc_Tmc/62bE3x999KjhjF5Up-E8rw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7AsLBOhA/D3PHr0mbp5EJuh4p675H0g/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vgiaZ1k/DtYDrQqn8ysU-DNFRNScig/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiWMKono/lS_nlBfadWsxlt46JID26g/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD513hVLPM/bSj-fMsL5hX9X80kygL2lA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jG2Iy9w/aoxwPcQcNX9vfaDqpVCgsQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "PERSPECTIVE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSVSo57g/c-x2_9F1VgiMbNYI9H9r4Q/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Ak1OGfM/7atIZMYyByE1uHwFxIaDcA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vhJS974/7BjOtta9p8mwA0SmDWIMwg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkibvDzSg/lVHpCyOkROMDZ1-ghgBkUw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD51zqjI-Y/W2-kI6Ld_F9kCP9AwX_mXQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Eternity/Past line",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD9MSiUeAs/fQK7H4cHbIxd5VrGQ3PQsQ/view",
+         "words": true,
+         "w": 728,
+         "h": 90
+        },
+        {
+         "name": "Eternity/Past line Dark Mode",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGgN5riJqk/2gmHq1ZcqHVv8l_8RI98nQ/view",
+         "words": true,
+         "dark": true,
+         "w": 728,
+         "h": 90
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jKIva60/Wln9NPTERpFsuI9w_94rZw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GRATEFUL",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSfioxQk/xPYElkeiN9TH5wv-zWThCw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGk0gjstgY/tXdQ-cPXV7rZ9Uod-iW_og/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vpCZsgk/PfTmw1oGI89cIiQLJLqT6w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiSynqjk/n457QhB5SHFh1_P0Mzs1hw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD513yjTbY/wE7SnsR0VoNT7UkaTUTKCA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jOxXOLc/V6rEPzSz4TcEaFZOV67hcw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "ADOPTED",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFFANiBrKY/85FaMQ2rjxOQROBsHFxo-A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7ArmXsKE/6zdKEueJ6J6e5brfLy-AfQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFFADIvM0Y/ifWEiobZ9ElPTYq_5XKWWg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAFFADzbgE8/4VSmQQQHpOCf-fmryKdalw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFFAeMUTpA/ZLkJqlLqvvmn4nv2sC3SRA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFFANCtZmk/pLgOsvrYpqpa1lu6BRPN3w/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SEX",
+     "studies": [
+      {
+       "name": "GOD’S DESIGN",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSTYCOAw/VJaRFEcYLXkKqiyve8ZeMA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7A3z5T0s/IcH0v0MERhSPBdnaMIeS5A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vpHv2Bw/J9_4SMaTZNm7OYO-EfxNjw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkie2Y4Ak/_SPH7ocfOzapl8c9_d42kA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD51zKG0r8/RXFr7vNxPrjSNmHzygqMRw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jDHKGK0/Tm39j0UpNyKnLpCyqjxkKg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "DANGER",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSeYd1oE/7zKT1U_0sf7eB_cLIM6N4Q/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7A8v236g/0DDZV2ReQU7ypH2u8Trt7Q/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5viVloPw/9fZ9uKfs1p78sV7z73ESMQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkibv0AzE/100ZcrTOjIEuKX4xVz-log/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD515E-NLU/Qi1_0-VnEi12r_pAzsozZg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jOdriaM/aSKOCcWcOK_0t_hPq-cXQw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "POLLUTION",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFlXFKcBlM/r_Snr8ZQSziSPFddVg-nMQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7A5v10EA/D-NGkBQnA3mZJqA6-9TvGw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAGlAxanN_8/TJ-jmptzVXUeZWBXeSu_IA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkieADee0/UqzAo2b3Hd7SMY116Ja-2Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFlXLmshIY/7kG4VdV5OyMhQNzyRbfoAQ/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFn4bLaOco/M4lZOmF-obh2WaaSwwWUgg/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "HEALING",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSQb7Vio/Oj2yY4on3E-lRLWU9AW0LA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7A4oh6kY/G6IJ4-FUSr8DeIkjg0QWdA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vkZI_Fk/o9KRNYyOVfWRhnlAzZO6ig/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiTw-ZBQ/SS1BQRNjBI4ksBqlHPeqmQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD51xCSTcg/zU91WhM48vuBf_iVRdUwgw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jDbES5U/ZCXQdVM2VC-1J432YRbJfQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "REDEMPTION",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXSYDWgFE/q35jpvVfGHnsx5vg3m755g/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGk0ibxakY/AUNpENf9FJ7m4v3DNw2kcw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vlio3yI/Z0SMeBeNRWA-52FrKCR3zA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAGkiejlxkc/-b9fKqH7v7Dk50IVn4RBIg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD52Atd5j0/f2SDktwMOPvdXKUzZG5jjg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5jAdqj0E/182tXyWkKvdvn_rFEa7RLQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Series images and extras",
+     "studies": [
+      {
+       "name": "Other images",
+       "images": [
+        {
+         "name": "Walk Header 2",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9Cz3oh8U/6huy4HYwksDVElqZlV7YqA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "Walk Header 2 Dark Mode",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAGe_0f8SBM/trMgdzh2ruqWZ1zHPNIbkQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "WALK icon",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAD6qGFtx-g/sCFqV0DTYeNiK5L0iMr-jg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        }
+       ]
+      },
+      {
+       "name": "SERIES IMAGES",
+       "images": [
+        {
+         "name": "GROWING WITH GOD Series Image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SrjqS24/Jhs2plWwOlx_mtSqpYjXzg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "GROWING WITH GOD Series Image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGfxf8Y7fc/oDS9wT27gDucWTcPcnQmBw/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE BIBLE series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SqvQ56A/Bx9YLZIh4XRsxoJMl1ecqg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE BIBLE series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGfxgGQ80o/YecncBiB3A4hAjbCw4Y3vQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "JESUS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SsMTQ6k/W36gnPEUh6wvPeKjuj32-w/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "JESUS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SwrkuWw/gO_z4bz9ffqcmGEl9ceqFQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "ME series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SliRByg/WKMx5w2G7DE_S56Yfsl2Pg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "ME series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGfxTVeolE/Nw3D5tjRCjhLMSnnNC570w/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "SEX series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4Ss0lL7w/LYZa6UtUp_LALLyU3NIeoA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "SEX series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGfxdBa31k/G1k4Z2C9B9w4zMOx4zNxxQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "POWER UP series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SnWUSWo/C5wXnL5M2Y9B2UkNh6zstA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "POWER UP series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGfxvwHYQM/YjIH9bD1XcMj7siSM84FPw/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        }
+       ]
+      },
+      {
+       "name": "SERIES APP IMAGES",
+       "images": [
+        {
+         "name": "GROWING series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6uavSZA/koR47Eh10BUVAp72d7aY_w/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "ME series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6gIIMyI/GTlD2wVJ3X_mSq7VIdukKQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "BIBLE series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6gWfpkE/lE5xjh14qolDc-DKYtDIlA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "POWER-UP series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6lzW81g/r4GzYjI9ObJnevd2Yw3LZQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "SEX series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6inWWTQ/9KAlLnMobJWokKyNNOc4jw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "JESUS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6o7s3dQ/YPyE3OCWCJ82iESC6epCLQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "run",
+   "name": "Run",
+   "series": [
+    {
+     "name": "GOD IS…",
+     "studies": [
+      {
+       "name": "BIG AND CLOSE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeIj5XSc/IKrCRY6U5CTBxqUSiNJ0hA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BK6rra0/YYZrS68Y2tSE7K2Sw8TlsQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeG56yTg/HJ2wxrpQW5q2NugN-KmuqQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHUhHACjE/E315FrTg9SNTmomCfXObsw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CiM4V_4/MqvMaTQ-ZkUVRk8n2x3A-Q/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ohFP4r0/_iXlzYvk55wifNBTkko5nA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "HOLY KING",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAD52IGTtFA/Kx58CkPJtb9X5d12kvtRYg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BI5mSuo/oiw2MCon6BHSuw-Gelzq7A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD7CfKB6Dg/t3f9nTV2g_yIRxI4jhNCNg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHU23LL_0/O5Tek2ECBhTV8BOlGEm-_A/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cm92WTU/Z52L1v72q2SR3rCLC5hAxg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5opdNr-M/QSJh-jKJTPj1Z2dkYocxaA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "LOVING AND JUST",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeB9vSBE/kfMFy-kiCC-jW1VGXk-2Ag/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BPmrL6Y/J2Qtbsl6UhszMdMe7lqgkg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeLB-zGg/pUgM36iZkLyyM3QFYhSjcg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHUr12JKo/fHv9lNzUQTmwhNac7KezqQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cpiqu_w/XFdChlth00Ce4EwKdS86gg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXeEW5p04/n5yIfUAzYi6zwnAraRe4RQ/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "ALL...",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeKHrkuI/TZ5o9S8eYjfbtzs01fVszg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BEOrznI/9X_v3oX7AaXjh1Wvddpo_A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeGM5MsM/f5NRxdpmfkUESD-0akeMGQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHVHbQ2ao/cvyzknLu8U_2hMs9zpVSmQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cqc48zE/t7_K1V_tLXJzN1rWFw9IKg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5okIUeZY/cwewBobcFI8iZ2m5HqwvJA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GOSPEL",
+     "studies": [
+      {
+       "name": "UNIMAGINABLE LOVE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeOwmrJQ/tAyj_1QGoAiKV-tshAHaMA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAFXeOwmrJQ/JuGWENbARGYuZwSV1Qw7KQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeMbzP2g/_70x1TGPzTnasCtbE1U64g/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHVM85-rg/fJVvhgXGjdny4yC6ns-uLg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CoXvflw/3Hibk_H_bTT6Z1LzMNu_Zg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5oltxdCc/I7E7fUU5gqZqtAUIumvN2g/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "SIN",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXePV1FkI/Agm9Y8pbxG3LrL2Ejp_RKA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGkziiD4mU/8jqrDDAL5CG5lOK8Id41Kw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeAObGfw/0lU-0M49ALRd0c-SiCB88w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHVTqaq7g/ABQDhCnCOQUX21I9jIV7dA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CqKOwRI/SEgmHSNftaKhQXH8XJqRrA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5om6HMfA/ewxA60yVk6paAeEOjnZ_sA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GOD’S SOLUTION",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeAECIZE/aLimdHvDCfUJy9_AK2L2LA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGkzi9lvWE/dSmO5e9aR9vViNEyWWoq6g/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeBuQqF8/NJE51wpsu-96KD_LEILl5w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHV4CezWs/zKhzoPgBWyk_bSeTfZEKfg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CtuAGKA/zYrjbo6Y1hg1-Cv6mZE7HA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5olEKqX0/7wFP5ZINh0yxnB5C1FiJHw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "TRUST",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeDvdDi4/lhOd_DRrsbXSs1zKsx7W0A/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGkzgrDvxg/sIm0mlw5EzRT1BSu7tAUbQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeCZBNrA/J4NfnVc1G1D1GFWH9bqaZg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHV5-7K5g/wFXtutY2s6TROpFZO9-ybA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cu_4JVQ/P4ha5TJaToriR3Fix31cIQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXeFvezyw/3ik_bcet0oQMHW-ZaikpBg/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "IMAGE OF GOD",
+     "studies": [
+      {
+       "name": "ON PURPOSE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeLNWwuw/_9JAmohdOfvqirXdFqPOEA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BJThlog/v74sk2fufCgYIh13SneIiw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeUL7efI/IBVkaezFZMBwGc4GUfV1sw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEso8w4C3k/mcX2CopqJ7oKuFyfd-Pbmw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeQx5QSw/xu6nzudtjk2igX7l_0ykbg/view",
+         "words": false
+        },
+        {
+         "name": "Image Definition",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAEtfabvnc0/QliD5szD8RhVsgIjjelY7Q/view",
+         "words": false,
+         "w": 350,
+         "h": 250
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAEu5PErVAI/p6pi9EvQH4uSdAVvt4tODQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "POWER",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeCvHQgE/A8_Vyp88WF8fXRS6JRcInw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BEeJAtE/wNLtmLDawzL1UZjTGdTD5w/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeRl_eWQ/Mz4m1yIm54pem29vx2zmQA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEso_e5uh0/VMEDQu3lwPmX5tEU9e0VuQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXedmaBMs/Xa3G51tzZmkh_z17FyROwg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXeYjYvcA/_2D8viUNZ5nPza_DcqzulA/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "PREJUDICE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeP9Hn34/3y1m-0MkYgeajmNseLY_1w/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BGbLPQY/LY_yHm4YgzXZCHJ-J1fObA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeUtZHAY/fnUnsC416iQDCkaoNHrKaA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEspCE9lcM/krj1xJidNdiKW3TEeN9eJA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeYqA4e0/u5VRDl3o0G_Js1dzim2DDQ/view",
+         "words": false
+        },
+        {
+         "name": "Prejudice Definition",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAEtkhzK3bU/2ZOKMy4Fw6jD0V7xLXxDzg/view",
+         "words": true,
+         "w": 500,
+         "h": 250
+        },
+        {
+         "name": "Men vs Women",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAEtfZDlRhQ/Yf51ZVywkFYhNrCI_o0jYg/view",
+         "words": true,
+         "w": 350,
+         "h": 200
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAEspNr5tso/0jty9gA_2Pen3Wwe2-usFg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "PEOPLE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeDgGmwg/EniYeV3RlbIW3qWX6Mw_UA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BHDP8Go/h-cRqn1BjCGT_OL3pL02eg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAEspLCavAs/f2HFAwUjNo_eBzrXSVNp9g/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEspGW5vao/gutuOjR61VO6JZFaAXh-7A/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeQeWoHw/qRDGXyiHeSGB_ainGOoWYg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXeVDhGtw/Y-RQqn0yu8S0v4HyiOoPUA/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TOUGH QUESTIONS",
+     "studies": [
+      {
+       "name": "WHO’S RIGHT?",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeIEcaR4/f_HMLd7pljHyUrSD-FnMGg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BK9zGDc/GM3QxSmqO7YyRr21V9odMQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeYP-UP8/42AbJMxpmxOwElbj1fNEDA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHam1866w/ikRySp-qyg2tmt0I4BzBzg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CsSZu7s/nGQzn7VNct6okNsevcs3cg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ouPwfDs/Bhj2keiBa9tvoyzLTou_SA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "UNFAIR",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeDoZ3yg/7-_zoqlBLok23aA318d9kg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BFCSyRA/vHz4tDu2gCQRQha5sA22iQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeToRkJI/2zwfYzGkrfGfrs8Etz1ofg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHaiVVwgw/Rkmob5qkjrj9clpMPbnMqA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CsYta7U/gW-fTJup9KFJS2GkQRf3kw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ol9pkcI/wZ-ePJqHCkTXEii419cLPw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "SCIENCE > CHRISTIANITY?",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeLU6ea4/6zK0Ra8iu2FbNh1zKfNBSQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BMqBTs8/aPAc8Nkpds1LxzD7tQOCww/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeUllUJI/5qYHry60tX-_pNHMkAQ4kQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHaurKygg/cn9mq9_HNKTzL_smvP7w3w/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cv6pa-s/XSMzZycfczvt3a8eeb19TQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ooD-x9o/MZ2TKjvuo6SBIbat4LROIg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "HYPOCRITES",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeOeAlBk/6U70Q0N2zQxzSWTVxQ3lrw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BHNIa54/PgrveYzMCd_QF2i6VggXpg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeTY88xE/vcV7I4DOiaA_93Y9tmzI_w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHagSpPUE/SfAUsvE0k1Mcz5zXaCL4lg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CnhLVrE/fjK_ooWxMgciimtgnGI4FQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ov2YLgs/O8rfkxzZ0FYsmsydkGELtQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "RELATIONSHIPS",
+     "studies": [
+      {
+       "name": "DIFFERENT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeOMiM2k/lBx5oUAkWboQotSPbAxcJw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7YReDkT8/lHnjajJNuXVDy0xjv0kunw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeWKelN8/d3rRz5MMprUAjOV2gKKZzg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHa4fr8tU/JRfDCKmqXHDXGAan_2bo0Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C84Wnwo/W4uY9teYd3LSSy6_TlPEmw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uQoYcI8/2qeG4bXZ6iXCpOsjREQx5g/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "FORGIVE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeaKiaH4/Ekg_qf9x9wnh3XruwjlvVg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BBfBim4/s1te3xeFJBXMZ5r220W3fA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeV6DtJQ/AwO6uwZUktU7710gF3hujQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHbEgdtKA/v0TwxmQiV3XD5vu3MqMjMw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7CzLNwPQ/ON1mhZzZr90LIO7gAJm1xQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uZWIOa0/ShjGe6tI-tn8sAIM_ofCUw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GUARD",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeDnr48o/7vBIYAhFrOAgTdAERyGCBw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BOeSQBk/2igUkJS5GCvwxg7HWOTooQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXec2mUi8/sB436VkF9GexqcPKeX0VSQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHa2xyK10/f1LAwUJZllgOLp3kFiwkPg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeSPkZFY/vwZqWenNo4z-0sAbx8TotA/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uTOsXII/Wu5-oKRG_QGpb5LJ445VhA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "THE RENTS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeCR8hOs/B7y8ZayzAnDvdcJ3jzo8Sg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BN8kRR8/eGIwvJB_WS_RuVE0qGLRwg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeYF92kY/4CGQdpl-nE1REY4IbnxvYQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHa8k3GV0/hKlcuV4tsJWwTLAwtVBP1g/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Cy524DA/rcw2Uib7TavejL_J4ysi8g/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uTWfyNs/VuRl3ldQi-j3bg-mwuW1kQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SOUND BARRIERS",
+     "studies": [
+      {
+       "name": "BREAKING THE ICE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeONCTok/_2MIaxIpLv5Kl749M93i5Q/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BJJbTEI/RP26RjDCmz8fR5cHFMOtNA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXee2nXcE/Td_COSUNmJutBZaXvGTSTg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHawnPLC4/DX6ieH6z_jFioWihMvzocQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C0hKbkM/nxSm3ffY5WS5-ADva0Tolg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uZRC6xw/Qy75vmb025B488n9EYgx6Q/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GOING DEEPER",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeNnkShY/47kdnJ5mJV86yxJyWF1lPg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BKs-gn4/y5edrY8bPPMc50HYDCBoGg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeY6yR9E/nddA8WHG8TlMIyNEdMR5ag/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHaxJ6zGU/BbY8mcAS2h9_5ouL4qQXiA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C9TQp7E/4wFaXhsfYszz5MngMJiGRA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Heart",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkidVWGZ0/IuZYdhDrnaGjzfMgp_1-Kw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Division",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkiQw2RaE/jJ7iDuf3hg6IdnkMO5Yu9Q/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Cross",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkic7dm3U/qcdXjyK9FgOJW8S1C87AJw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Question",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkiaI_bG0/wZ7poaylaGKtU8NZ3e8fig/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uWLFC6w/FUAzMZwHoA3vwFom2jhqRQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "SHARING GOOD NEWS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAGkiTCDN30/9vHgxjbK2nNTT0cwfff15A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BPo3JTw/jh3_i8Dw7ej3-vma4Nb3xw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeX8KD-A/W1Bt4YY1HL6LvIjkD1gdeA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHax39N1M/5YlcMhEy3wWY5xK44_aUMA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C53QlD4/kHwIs9tr2HS4N9BB3dO0NQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uTFutSI/FjPFvr3Heq-RHSFV2uoZXA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "DECISION TIME",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeEkBe_U/lqflvQ5Yr4dttLDgyoRSdw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BFlaRpw/SMOVP514CDSus8nwAYwtXg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeWb2Evg/8zWNN5tQmwHtDsuKSdyFXQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHbMBkpNM/zBWOZoyJjXOZcwiIo8z9sg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C9G4gQo/R0eyMNZzVZBCO5fRrOUuWw/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "FOUR LAWS CIRCLES",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeSsWLi8/KkSazo_2fMGbJk9yb4Tclg/view",
+         "words": false
+        },
+        {
+         "name": "FOUR LAWS CIRCLES DARK MODE",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAGgOssVkHs/7ylDd5Rq2FHa40Dy8aCbxA/view",
+         "words": false,
+         "dark": true,
+         "w": 560,
+         "h": 315
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ufjo4BQ/JKAWD_Bh2q76ewLKjAzuWg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DECISIONS",
+     "studies": [
+      {
+       "name": "GOD’S WILL",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeK0sQhc/of6ogh_v1sxBRhf_jz-ehA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BFn9_AA/Z6YhGkA7LSXokjxbdub84A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeWqfxt8/Gpm0OK9cn1y8AyI_EgZq7A/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHTlt_NDU/WOA2CU8kiqSXsmYg7rwIDA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C0AT65A/X6hl_P1Fare7j06VfYWiPA/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ukgqvH8/ymkgjmBsKjjrWHhabjrp0A/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "TIME",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeB2jTHA/KatgYjeXOdE-MzX_QYxDVQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BILUHYs/KZZXcO2XvXHJ-mOw8tJ9Pg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeaOSST4/unbxy3pKXZmLxHoeNGhdhg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHU0UfFIk/FoMfRrjBUfBuP3S453FMTw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C9jP-JQ/rL7RCdEmPdJsy0eZKNQIDQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Time 24 hour chart blank",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeQ0qWnQ/5_R1T_HkrhpQ_Vy44t7U4g/view",
+         "words": false
+        },
+        {
+         "name": "TIME 24 hour chart",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DADn6mZwzsA/_uiQn_EtFKnv32aIOcpgsw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "TIME 24 hour chart DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGgOqhqeEQ/hMOJi-ZZwk9QqcAhr1hLsA/view",
+         "words": true,
+         "dark": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uthM4TQ/fWN_ZMZLGxB_8SWgDN4fJA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "MONEY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeIVdAfM/I4vqzPDDWal1Lx7l0xtxMA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BLqkeeI/AY4IO9mPSWaZzl3Qlv7K4A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeaSI2sM/hKTMWAz5zUItmeG91sIw0A/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEJRjGdkZs/9omQYX-qpc059XtvMC7GxA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C10-QKU/mk9bA-Dgagj7R4bOzUO5xQ/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "MONEY pie chart",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DADn8KygHXw/I72txh-qLl5_7DnyDDNryg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "MONEY pie chart DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeYrWWnw/5pz29QfxEDWcK9qdM8w5jA/view",
+         "words": true,
+         "dark": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uhBoyAY/xIwPELv5kH1drAFUXi0h8A/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "UNIQUE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeFsXHMs/W-5NXmpPtZN7GBxdRRMeyQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7BLI78ng/feQDXa_PjJprC3RzU3PUcw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXecAHlNM/F1CM4XZScpBPZOA6TkStyw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHT6n8B9Y/X77PY3fNoaHvZCCcc5kMhA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7C-etye4/tb7bZ7CeEiFNIOeWIWwF-A/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5usMi4qU/ioPaqyUV_YfOe0g7SV3scg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Series images and extras",
+     "studies": [
+      {
+       "name": "Other images",
+       "images": [
+        {
+         "name": "RUN header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9C6TZVsE/yo-5DPHJYsta5vDLQTCGYw/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "RUN header DARK MODE",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAGe_48Akfc/RHVgaNKT0xGtlKqtohkrvw/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "RUN icon",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeXuwjXU/ie1-m6Fyl0xK4YKStX2K1w/view",
+         "words": false
+        }
+       ]
+      },
+      {
+       "name": "SERIES IMAGES",
+       "images": [
+        {
+         "name": "DECISIONS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S6F1nYY/8CdtqBEIrk-vmBG964QtsA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "DECISIONS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOJteMYg/Msuw22m7GITVugSQ00Pueg/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "GOD IS… series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S5XgQFs/-BNXfISdV6afGrmCvfxKIg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "GOD IS… series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOCoVIfw/b4CQ6xBWn-lOo24y1efcKA/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "RELATIONSHIPS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S7oYkhY/ViDOsq7OxapAPBsyKKbsnQ/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "RELATIONSHIPS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOLT65_k/M3-2SC57QIHKTML5piWZIg/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE IMAGE OF GOD series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SzhaYPY/MBxCb9cX8DblF7l1HnQKhg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE IMAGE OF GOD series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOMD-W5Q/iilTEJpn0wGt5cQ0pAct8A/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE GOSPEL series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGlF2HLUck/WFhbSgBBUzCPf9ZZpNvEkA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE GOSPEL series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGlFzasMxI/U7Xgr-7fFQMgOVw_jiNIuQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "TOUGH QUESTIONS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S7BooOU/FpPMHYnDSp5fmctEYntZ2A/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "TOUGH QUESTIONS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOJhNNsU/PqtJuMrgvDZzJk-KNhAMHw/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "SOUND BARRIERS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S0na2Vc/T_8DUt4VVxyn5FN6Eb5yAA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "SOUND BARRIERS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOByd0mw/r2K0lCaGLpiXpgl0ya9opA/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        }
+       ]
+      },
+      {
+       "name": "SERIES APP IMAGES",
+       "images": [
+        {
+         "name": "DECISIONS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-68MDdFA/KGj_JFkyaL7AJ6J2af91rA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "RELATIONSHIPS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6yv0SkY/nCLlAMBKDMCnlYeVY3Ir5w/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "SOUND BARRIERS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6yoXjzo/muCtfk59cHCfDE2lz8QIzw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "TOUGH QUESTIONS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-608sbJc/uNQ6F7O0KFWFrYOJhcKoTQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "GOSPEL series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-68I65nc/fDKfQCHWehb7ucgPONco9Q/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "GOD IS… series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-64SPYnY/udXN1mYe8bo3hm-CbiGrSQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guide",
+   "name": "Guide",
+   "series": [
+    {
+     "name": "THE WORLD",
+     "studies": [
+      {
+       "name": "GO GLOBAL",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeeKuTw0/75AKxDMu8mQvwFACFZU-sw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7Rxr1jHg/6fAiyQ77XD5rak6OI_YRZA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXed7WAnU/6IK583lYteKjGlTAyEEpuQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHy25twms/aIHR_wXhroKeJSY0IS5eqw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7H7qQz-k/iv_W2b5uAxx1pj2TLdcv3w/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uqobnJ4/bOPwh7RXhxw4qJiACmedgA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "JUSTICE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeXit8Cg/UiDp4EXEmNXHn0ZqUT7U6A/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7R_5F-6k/-oXIn_qTV_zKD_au0Dg5ZQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeZCiXsM/bL01lCdbw1n_lvPVzk9YOg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHy4eDwko/09sC5ZeX-BYRjoE8tE1F-w/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7HgGQT5k/tzffBMe24d_aIiKPMuJEfg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uukyPeM/wtZRRp_3fJIHaqhZvg-HjA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "THE CHURCH",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeecJWOY/8xJH1hUwUTZT-Z9aIzdyxw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7R5HuFuE/i9G3kitgmQt5aXL8fiIA_g/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeV2kY4I/I2rQ7Y7V0WLlD-irMFzXeA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHywzSZIY/WJ6tHmoV2fzURPXWaC3_hA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7Hto4nN0/nwei4a8jlfO4cUJUsz3e1w/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ur17m50/rueDyHqfqQv6NgnFXFARYQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "EVERYONE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeTvvn98/qV89R1V9Qu08qZ9zhS-p5g/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7R-EsNd8/E43BSEHDp-wY7NFQEu_FTQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAEASnnsDD0/2kaiPrIhQCFXcRUEwFuZXw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHy-0XWFQ/oz7fH7aCOkp31vqCT26K4Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7H7MPmDg/Z_w2CkKO2KKWcda_H3E7UA/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD92CUvYlE/fyMGpkluk9GC1uxCbwGVMQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Series images and extras",
+     "studies": [
+      {
+       "name": "LEGACY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXefnFGEg/pglPH77pcrGBZJNG3kJDZw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SFdEBeE/hfJxo8wYtQl5LeECuQp10A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXebd9fvA/vhjbcuubsaqfoUgEDeSV4w/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzMRqtCU/1d80OAYwlm2f4JWrIMptBg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7H_2b-64/beKF_qXWtF2WfXFfXWaoRg/view",
+         "words": false,
+         "w": 500,
+         "h": 500
+        },
+        {
+         "name": "LEGACY Multiplication Chart",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeXD7Ijc/MMZqk0_XBV1M0A9LHxxDTA/view",
+         "words": false
+        },
+        {
+         "name": "LEGACY Multiplication Chart DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeXD7Ijc/kSACKt7UUmqYiHXf3EHVQA/view",
+         "words": false,
+         "dark": true,
+         "w": 500,
+         "h": 350
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ulLZ-vc/jAyfHUAYnGpAXbTNTxtUsw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "JUST START",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXegnZCR0/5ibqv6mGmx2mW_lO_tgv9g/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7R-7tOso/5EG9G0gdt4amuqqaOnMJlw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXee-cc6Y/1NDpRFDPBr3mWTB5dpbyQA/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzOc0XZk/ace0_C7GE2W-H2MynCDrIQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXegovUN0/jj8rQB_ObpJWQc_sKkHXJg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uqdyIX8/V-nKSRMb_OjmXKxGCsacOQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "NEXT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXendr_Ec/3nVTM4FtTP1fOqWPXOEDcA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7R9o-A04/K2gTswC2pPrJZDGtNIVmvg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXenbotFo/CEQjPE0hn_BNnwb-fVLC4Q/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzDmZgSw/l2yJQRP2SmUQTZD-CojAnA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXen49jR8/u3ayH4ZdPXpoIwP710WAzg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5utLzV64/8DlM7rXG2moGuA0VNn68Qg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "CHOOSING",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeoUhXAg/FtKIBRfWnVBNxxCwQ6W4-g/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGkid2qS4I/D06tkFGCXzW6qTvVxStUuw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeoNQg3s/gMGAxdQtOd9MaL_O-tzgAw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzAa_P3A/Y6-FZrwTTTcFzB2yVN_1Lw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXenV2FkM/HOiq0Z6klYnh-rE9iCle4w/view",
+         "words": false
+        },
+        {
+         "name": "CHOOSING chart blank",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXelnJJic/Hz4vR9RsnvH31Id8UdImng/view",
+         "words": false
+        },
+        {
+         "name": "CHOOSING chart blank DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGgOn0xLsw/40y1S2XXdtTexF7fqgeaeQ/view",
+         "words": false,
+         "dark": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "CHOOSING chart filled in",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXeqsYWM8/l-OwvK8ei6bb4sC4-r558Q/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "CHOOSING chart filled in DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGkpL0cCyQ/U3lEURVY5bUoAQtnrIFPWA/view",
+         "words": true,
+         "dark": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5upT6hH8/D2jST6aqJ6oQDevdMGZrfg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LIVE FREE",
+     "studies": [
+      {
+       "name": "BIG CROSS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXemYQ0RY/uAM50lj3UICp4T8CjTJUxQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SG5sogM/XCFz7EqEKSQ6g4bP47_kMA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXelsw5ls/5WUQzVX0yHNbgbwvvfBhZw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzE7ESsg/xC6_5R2fkXk0t5zEBe3GvQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXevSF1ow/hNTdpIzSP7uKM1M-SOsImw/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5up17hHg/voawqsujusePmd0U6LG3fw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 366
+        }
+       ]
+      },
+      {
+       "name": "DON’T GROW UP",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXenr9kFI/y72acaGk_pe3X8v7sOAgCQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SIu2zpU/9uFz9VYPzDpU3bTSj4LmJg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeig3hlk/qx71VuTSucpFNfmPqH38tg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHzf_pu1k/4CEEpSLDA88c65Em2NbKow/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXerWmOXY/rYpoIYWh7VxbQHGW64Jw-A/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5ukd60m4/4O2aQXgxtlJiUUq7ytimpQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 366
+        }
+       ]
+      },
+      {
+       "name": "TURN & RUN",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeoNgC68/N-ImyGUIFBTE6pj-fMUq2g/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SFYKIEs/PnZOY4UyUGQNobwVEZo_JQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXehIJVVE/_L51xDdeq7cbpQwO1a0tZw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEHztUaCOU/Bkr8Fmk6fi68JEl07BC__w/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXelohJWw/ScIBUHEB1a0A7F8KWyISVw/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5unEC8KY/4kB4iF-p0TJu-ozpjH3kmg/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 366
+        }
+       ]
+      },
+      {
+       "name": "HEART IDOLATRY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXetQALo4/d7kvZhR3hmgxuvhn7Of61w/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SP4fF04/ktZjTARILTskF2yR_G4ZXA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeijPbqc/uy1gPQ89S6Z1rGysOrZnng/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH9kJXLJg/NICE05Ya-cqlvunhqaqg9A/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeuIzopw/AIFFE_JY-4bZ89GTN6A6-w/view",
+         "words": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "WORLDVIEW",
+     "studies": [
+      {
+       "name": "WORLDVIEW",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXes4luOQ/5x6E6_Sp-9UIFZm6l19bZw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SOclUMM/_idVpT8OMb5PU4il44MIOQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXegtck6M/geee5c3uB_fc6uTea0tiHg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH3RfwI7Q/I4z1JkvxtcvgoFE15WUWrQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXerGIbgk/bDXGDkzVDK8Gehvdb8Dwqw/view",
+         "words": false
+        },
+        {
+         "name": "BIG QUESTIONS",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFHDuhDc5U/ZX0yeSNwQEFLm0ZSnPOKaA/view",
+         "words": true,
+         "w": 400,
+         "h": 250
+        },
+        {
+         "name": "BIG QUESTIONS DARK MODE",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAGgO3z_u3I/6xwpLaAiwj2ZgMZscznYiw/view",
+         "words": true,
+         "dark": true,
+         "w": 400,
+         "h": 250
+        },
+        {
+         "name": "WORLDVIEW chart button",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DACuBQO7dhA/wmDyupEvfc3gW1yI5OqVAw/view",
+         "words": true,
+         "w": 2480,
+         "h": 520
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5uqE4tEk/avDwlHCfiz-bAJvP0oIzbA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "GOD’S VIEW",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeupk8YM/odJXf6nbKYacKm7DHzP4nw/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SEDb9YM/mHoM4CeNGAOpTM53BsCJBw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXegdv5UI/nzVxlIx9YUzeyzmqRyN-fg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH3i_07LY/60eYBEwChtnOOm90WCAohg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeoU1yfQ/3LoA55QRaNUxto3Rrd5N3Q/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5utO8iEE/Pv3pkGLBkgmLVDIUU88QLA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "OTHER VIEWS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXekkvT-M/YLLo4DMcwcU_odblxsJilQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SFJ91BA/G4HywCehatAkeGwAhYzHsw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXemyAvKY/NF32pyVmthHJ3m4qrlEVnQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH3o8hyXs/G5V8fRvDC3rQpKawCzsqrw/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXem5yCjo/vwqA8-Wglwp7KZKH6aumVA/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5utw1CrU/bW2wWtI_2urhh2glWHIJ8A/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "SHINE",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXevqnXHk/TeWd5NCfcVzbX1Je_Qb9-A/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SJSFS6I/7PB6iBJH2ZUEzhCx8kTbNw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXegXeo5o/0DMz0Xm90zSJpFClv24mqg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH3r7jePw/4sSGtGKejWqK7O_O6fy3OQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXejjIXb8/TpINLq_v1o2Lma5Y7LkHSQ/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5unX1TJM/ZJb_6NvMPOl7wwVdggG_2A/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "INSIDE OUT",
+     "studies": [
+      {
+       "name": "GET REAL",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXeq-N-Wo/dtnU5cNoJ7Og2mYfNfSHMA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAGkibyJRto/Mpss_3hl9fGMEh50YNIAYQ/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeriWE8s/ri76dq1bfDdZKfi21A_yrQ/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5IvnRb4/17pu6PwNcAaw07CBjOnT6A/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXemBpoJo/OHqEcQUJMZnw5zmsGxDoRg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD92LJIPXw/zjqL4x4UTh7xd5vNyRaUgw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "ANXIETY",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXejvrkd0/KJq-Fl7zoKVlUomfNR7k1A/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SFOrJVk/TAjhMHe2KQWmxQUqYQ4X0A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAD5vkCWchI/hjWl7uLy2qzT44vRhDAQJg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH3nJanFY/BStX91qGqq3E4VlaIXRY7g/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFHt-W3HgU/0yqNbGgmYj4bcDsnatQRYg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5u_8X2f0/HeBFm7fGyPJ8AVBp03cwug/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "FIGHT THE DARKNESS",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXejBajjY/m7AxVFwVoUFIc7Z2okejkg/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SEOrvlk/BVlaohDayP71FU5Zb2T-Tg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXen1yMo4/UAZ10ViLp6vCJ4wxeUovQw/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5BLmGwc/M6g7dmZteq-tr_yb23rweg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXelvdoX0/eu7GvJmYwDAp9-7Dmz2OZg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5vA9273M/JxlINuV5cfCKYwCYdbNjFA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "CALM",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXekFBDJU/aEtSZFj_b4vTM3g_oyySmQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SHVeWq0/21c7iEEEU88j31SyuKbFKg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXeiCWgHU/6Qk1-zfFdv3qV1xhwkdHGg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5PDGt1s/BGmPyF3DPCSbHcMpzvBhvQ/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeq7aseQ/997mSZT8TlcMQaXFIPzlQw/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD5u-uQc_M/BW9fXg9itVHK54kniG90KQ/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LIVE DIFFERENTLY",
+     "studies": [
+      {
+       "name": "SAY WHAT?",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXekmdA9Y/kqEsxk57H1gO4oN1ST_f2g/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SKYWxMQ/oe-gniVD4AoPf7fy3dyW6A/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXekmdA9Y/kqEsxk57H1gO4oN1ST_f2g/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5ITcgAg/8GmjHD3JBkDB8ePD7w5zeg/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXegTbxrg/wY1awvaH2i7tm33TESMd0g/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXehb-pKQ/9zLc0vGs-Qgmaeg10Va_lA/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      },
+      {
+       "name": "EVERYBODY’S NOT DOING IT",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXe7FOQOU/i3IrSW2xsdsmkzd9VxImsQ/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SBYRAOc/HM5cdv5PFQvEla3YZPhHfg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXelDXVFc/J6sXZ1XbG2pI23d4eJgKjg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5b_8snA/PXusCqprtWtZ_bnmM-YoyA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAD7IJdOJgQ/pi23pNRRdmH2MICA82K85Q/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXe10eyv8/F5f_K-uM4QI4bMPUzrdbKw/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "MEASUREUP?",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXe7iGIbI/r0gfZ66QHTIF1b1Mc3HCqA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SEq3YZw/Z9jReuyGtEHDCVlIr-HcMw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXe5v6Iyc/TIU6unF6pXGNUIf0LAcnJg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5ZImC68/mLWFIELqNtfstF8BMvDvww/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXeyBgEAA/Z4GZJmnim066mssRk78ROg/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD92HGzA9A/cpAvPWwKfzEHI4evF0oHRA/view",
+         "words": true,
+         "status": "old",
+         "w": 900,
+         "h": 365
+        }
+       ]
+      },
+      {
+       "name": "RIGHT NOW",
+       "images": [
+        {
+         "name": "Square",
+         "type": "Square",
+         "url": "https://www.canva.com/design/DAFXe5HgjkE/FnoA4OmPcbq5SgPedmFBnA/view",
+         "words": false
+        },
+        {
+         "name": "Square Shaded",
+         "type": "Square Shaded",
+         "url": "https://www.canva.com/design/DAF7SIl2Lis/N7yqwAqp2PcLHetVdKiyyg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Review Card",
+         "type": "Review Card",
+         "url": "https://www.canva.com/design/DAFXe71GlgI/XKK-HwsHMPQaNHbF48Y4xg/view",
+         "words": true,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "Vertical Image",
+         "type": "Vertical",
+         "url": "https://www.canva.com/design/DAEH5plLIxM/LEdcXpIlLrED_j39LzvZzA/view",
+         "words": true,
+         "w": 1080,
+         "h": 1920
+        },
+        {
+         "name": "Circle",
+         "type": "Circle",
+         "url": "https://www.canva.com/design/DAFXe3wxR7o/XViddCukMCaRsDNJDs_I2A/view",
+         "words": false
+        },
+        {
+         "name": "Header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAFXe9fAqdY/m6prQs5hUiR78MN9iAAArQ/view",
+         "words": true,
+         "status": "old"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Series images and extras",
+     "studies": [
+      {
+       "name": "Other images",
+       "images": [
+        {
+         "name": "GUIDE header",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAD9C2m9Zqo/wi67cngJdt2mbXKITY4rQQ/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "GUIDE header DARK MODE",
+         "type": "Header",
+         "url": "https://www.canva.com/design/DAGe_zVFiS0/446WIx_Cma1X6ZmUZ11fyg/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "GUIDE icon",
+         "type": "Study Extra",
+         "url": "https://www.canva.com/design/DAFXe2cpcGw/VRg8SDVj8OSfuBEupw9o2g/view",
+         "words": false
+        }
+       ]
+      },
+      {
+       "name": "SERIES IMAGES",
+       "images": [
+        {
+         "name": "LIVE DIFFERENTLY series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S-hlOrQ/eSuVqub5ZWAMF_L67stL_g/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "LIVE DIFFERENTLY series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOFN7ero/JpzqS-pNJsi1bexnpezYAQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "DISCIPLING OTHERS series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S7jAhRk/NdGS0TFh7W_EJVKYnRUoog/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "DISCIPLING OTHERS series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOEcA7ZY/iEmX8GeiqTyoOfCffxTZ-w/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE WORLD series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S1zb02U/BmgxM-CwQ7_h8Hxf1dYWYw/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "THE WORLD series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOIsUXpk/S8hSCFPvhpqu-aN-7U0sXQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "WORLDVIEW series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S3epd7Q/qME95WT9lcm-ypBQN_iE3Q/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "WORLDVIEW series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOD5XgIU/NW_CZBqDMZw0bUbCLZe3eQ/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "INSIDE OUT series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4S2C7s2Y/UGyhQ3ns-vMJEYeE3IQpYA/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "INSIDE OUT series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgODvYwlk/lTUhwtbf5N-Erm-fu85sRA/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "LIVE FREE series image",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAF4SzoOT8o/uSHMN1s9Rvn_oKnDtbeiJg/view",
+         "words": true,
+         "w": 1500,
+         "h": 500
+        },
+        {
+         "name": "LIVE FREE series image DARK MODE",
+         "type": "Series Image",
+         "url": "https://www.canva.com/design/DAGgOOgUq_c/pOySW8Boz0ojU_e5ShaHMA/view",
+         "words": true,
+         "dark": true,
+         "w": 1500,
+         "h": 500
+        }
+       ]
+      },
+      {
+       "name": "SERIES APP IMAGES",
+       "images": [
+        {
+         "name": "THE WORLD series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-64gaLF8/DYniDx5YmDAdcaqAoVqPsg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "DISCIPLING OTHERS series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-62reH6Q/1MEL75DYx75ouMfmMicHDA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "WORLDVIEW series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6xTHDLM/MnsoXOmuieYzruLdxm8qHA/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "INSIDE OUT series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-6725IBA/jvwGAoyiS5D3u9T3PvzmJg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "LIVE FREE series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-60Nfc88/YM5mL3ZjA__tCrlHiP25nw/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        },
+        {
+         "name": "LIVE DIFFERENTLY series app",
+         "type": "Series App Image",
+         "url": "https://www.canva.com/design/DAD-65ClUHo/DcCmrnddt2ZKa5iABQmVeg/view",
+         "words": false,
+         "w": 800,
+         "h": 800
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "appWeb": [
+  {
+   "name": "Logos",
+   "images": [
+    {
+     "name": "THRIVE STUDIES all studies chart",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAD_QxXffEU/c2tRoZt3fdlrv8zz-my1ug/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "THRIVE logo (word only)",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAD6SdX9VY8/4aY4wQCSrJEn3q-keub5jg/view",
+     "words": true
+    },
+    {
+     "name": "THRIVE logo",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAD-BWiT-Ok/mEiYjOQWCzyMRKm1oWWomw/view",
+     "words": true
+    },
+    {
+     "name": "THRIVE logo White",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAD3fvPBh8w/W4JSQ_3X7YotU_Hkf8BsxQ/view",
+     "words": true
+    },
+    {
+     "name": "THRIVE Logo Gray",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAD6SEg0sxI/NTJvrgId-PJwT89vaKHvyA/view",
+     "words": true,
+     "w": 1920,
+     "h": 390
+    },
+    {
+     "name": "Thrive App square logo",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DADoSyR2qmA/ZYEV_D1ZUiU28cbHwrzGuA/view",
+     "words": false,
+     "w": 800,
+     "h": 800
+    },
+    {
+     "name": "Thrive App Store Images",
+     "type": "Logos",
+     "url": "https://www.canva.com/design/DAGpN1WMo3A/nfZ2PKxwFNtIe4LQTmZWMg/view",
+     "words": false,
+     "w": 1284,
+     "h": 2778
+    }
+   ]
+  },
+  {
+   "name": "App Headers",
+   "images": [
+    {
+     "name": "Learn to Use Thrive Header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DACvgFlpd3Q/VfBMOPIBKZ02S-vUU0rk9Q/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "Lead a Thrive Group Header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DACvgPzP_Q8/8X-oo8Cb_J031i0yWDIL3Q/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "Icebreakers Header (Gray)",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAD-tJJJkLs/gM_Sv0neIziRYiwEDYVy2A/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "Boy Holding Phone header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DACRAQOPTiY/5Y9qyPtlT6FDXAIjVrBUIg/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "The Bible App Header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAD7gkZcYtc/WRi-FY8Lqq_7FUA4S88e2w/view",
+     "words": false,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "3 guys selfie Header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAD8DUfvvMQ/bHTGdxYyiDKOmxsFK7w5iQ/view",
+     "words": false
+    },
+    {
+     "name": "Icebreakers Header - Yellow",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAD7lxKZTOo/FgS37bHFMXxeTmMZDj0umw/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "REVIEW CARDS Header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAGlBt0ePj4/wguj2V1GQuhjbIB5yArscw/view",
+     "words": true,
+     "w": 1200,
+     "h": 500
+    },
+    {
+     "name": "IDEA BOX header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAGlBgz1WHc/2TVphFxVsZ88-vImIuKCVg/view",
+     "words": true,
+     "w": 1200,
+     "h": 500
+    },
+    {
+     "name": "LEADER’S GUIDE header",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAGlBrt0X2U/h8vhsQQQEjMMFP2vdOr0QQ/view",
+     "words": true,
+     "w": 1200,
+     "h": 500
+    },
+    {
+     "name": "4 studies corner image",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAD-5OD4kJM/2ehKjmHMRb8bN8DSLfcXZQ/view",
+     "words": true,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Conversation Card Ad for App",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAE2Bt4ecq8/pV1GR-HpI-IxIGeUM-3UPg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Conversation Card Ad for App DARK MODE",
+     "type": "App Headers",
+     "url": "https://www.canva.com/design/DAFY-Nx3ioU/xHEcO6RY8Z8Hv-CPQ6fcmQ/view",
+     "words": false,
+     "dark": true,
+     "w": 500,
+     "h": 500
+    }
+   ]
+  },
+  {
+   "name": "App Icons",
+   "images": [
+    {
+     "name": "Question Mark Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD-ms7R7Sc/YtsVsPQSEY8_Dn08wIWllg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Ice Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD7gq36aBQ/OGU5Ud53A9AeDpj9vvevVQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thumbs Up Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD7gpP3ixc/a2AI3555kSPHsnvNuPRZgQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "1 Finger Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD7guktmEw/Xk-JYuJcxTSzm8IRvdSoEg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Home Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD8De-jpn0/mYDE8ZlQQ5E6MylAthGljQ/view",
+     "words": false
+    },
+    {
+     "name": "Printer Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD7me3KPWY/1iYMuMJYGoe-dxO2M4b8IQ/view",
+     "words": false
+    },
+    {
+     "name": "Bible Icon",
+     "type": "App Icons",
+     "url": "https://www.canva.com/design/DAD8DQgEpRk/JQwu706Z8Ke6Tmmr8QjS6Q/view",
+     "words": false
+    }
+   ]
+  },
+  {
+   "name": "Carousels",
+   "images": [
+    {
+     "name": "Learn to Use Thrive Header",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE3JBdP4Ts/KjUDmjcVtgbCzDsug90XrQ/view",
+     "words": false,
+     "w": 336,
+     "h": 192
+    },
+    {
+     "name": "What is Thrive",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH2Ahm6E/KDR1_tDG-D03M0TUlIcNXQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "76 Small Group Studies",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFElNARCDQ/-HrOxVfTZw6fEdkgiI6XUA/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "20-40 Minutes",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEldzCHCU/xf9b2b28bXKU63-FbJwfoQ/view",
+     "words": false,
+     "w": 800,
+     "h": 800
+    },
+    {
+     "name": "Swipe for more",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFali8xl_I/zdzB9IlwEY9EhE1MZVtq0Q/view",
+     "words": false,
+     "w": 940,
+     "h": 200
+    },
+    {
+     "name": "ur Favorite Thrive Features",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE8B4pkBaE/siwPa_K-J6BoFVm0eyiMHw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Designed for Simple Conversations",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE6bEuYaSM/ayPXmRX13A5RhpLCM46o6w/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "They’re So Easy to Use",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD4S3De-I/2hK0Aisqdof0clCpIHcYtQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "They are Transferable",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD4odrG-0/PwRS1F6Go5FoKpMZPQx73g/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Bible App Integration",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE8Cl2I_Qc/sIX8Pae9VO7oP10cOEEOnQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Bible App Integration DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEh2bf9as/YCmvmQuy74RmFomwf9iOFg/view",
+     "words": false,
+     "dark": true,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Images",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE8CzickHs/pRcEH_z7h64AidOj-LpWgg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Review Cards",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD4muA64M/Dnmj9QMkP3QWM4gsaGkBjg/view",
+     "words": false,
+     "w": 400,
+     "h": 400
+    },
+    {
+     "name": "Change Your Translation",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkid1oB7A/6Ak5P66CsYW7n7sRv2Ndeg/view",
+     "words": false,
+     "w": 400,
+     "h": 400
+    },
+    {
+     "name": "Share this App",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFHtlkc3To/6PuwIs5c68s-rgDvxoDFDg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Alternate Paths",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkiaajLfo/WQDFSSqNjOEF0Q8zJpM6lg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Latest Thrive Updates",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFUxdtO_I8/kG0GVU8tFd1G5uxmiPYsKQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thrive Notes",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGvyeiudyg/Mxfyrx82UrTtZGoQE6ly2g/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Pollution Study",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkiRQpVcE/sMnhuRmnGAIQ4EpqmlMIOA/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Search Bar",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkiZHun4Q/6hn-o3BDZur6Ap1FyE7ELw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Alternate Paths",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkiaajLfo/WQDFSSqNjOEF0Q8zJpM6lg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Adopted Study",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFUxSKwlwI/EG9eKyJm9qWs4sOOAFiurA/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Menu",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFUxY-SvBc/W_tll4vuwcKOgZrvC04XVw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thrive Carousels",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFUxODaPDs/bB683LTa0uEHBDfZek8oaQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Other Apps and Things we like",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH6s1Qp0/1hZJFVDRJ5qvJqvgNJSzdw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Launch Box",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD4_2cgbA/EcbGlodm_c-D561R6ey45w/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The FOUR",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD5LV2Z-k/XyNLt2s53XnSRJ-B7a-axg/view",
+     "words": false,
+     "w": 1080,
+     "h": 1080
+    },
+    {
+     "name": "Snapshot Cards",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD5F2iY9Y/VUtmcrzkRk7PLt3_814rYw/view",
+     "words": false,
+     "w": 1080,
+     "h": 1080
+    },
+    {
+     "name": "Lead a Thrive Group",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAE3JRJnMBM/shjZIrAaPjBEBqZGReWPUQ/view",
+     "words": false,
+     "w": 336,
+     "h": 192
+    },
+    {
+     "name": "Thrive Features for Leaders",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH4LGu9U/Cf9OGAUCy22jaRaZrdi9jQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Leader Mode",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFFC4nuEgs/sDy2U6gKXkKtdMqX4fn6hw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Leader’s Guide",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD5J6Lh2s/wL7hAskK--Vx07DU7Z-2Lg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Idea Box",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6IiZbsQ/bvuXai8-XaspA0LzFyYFoQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "The Feedback Button",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFI3H-CYew/gygsSeu-ptQL-Emm-Fk5dw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Shortened Studies",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6VJO6MQ/rD60Vgq1a4DLlhKZKXCqlQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Icebreakers",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFE0iwqb1A/hSdSNXRhzDQhXxi1pEoIIQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Icebreakers gif",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFFDHNw0fo/CE4nwSm6eUG6Wzbiy6movg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Answers to Tough Questions",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFI25_wagM/AIcCH68nOqhgJEn79KN4Mg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Other Studies",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFI3NqBIS8/Ez6lOIMlXEneJtortcskbA/view",
+     "words": false,
+     "w": 400,
+     "h": 400
+    },
+    {
+     "name": "Alternate Paths",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGkiaajLfo/WQDFSSqNjOEF0Q8zJpM6lg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Small Group Leader Tips",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH7IQEsg/UOeKM0C0sP90M1JWOszbWA/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Touch Base with Your Students Often",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6hpPZoE/RYc4_oKWWx0cljXTi-P8cQ/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Pick a Good Setting",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6kBXHHg/tTGvX43HS239c33qupbZjw/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Bring Food",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6mN3RM0/f6nzmedMdhTWCoU-p2B4Qw/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Review Past Lessons",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFIaPX-04w/g41gs_Ot_m6jdXeeakyxbA/view",
+     "words": false,
+     "w": 400,
+     "h": 400
+    },
+    {
+     "name": "Be a Good Listener",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6z5W3wE/VMs8_OuzBqFVc3Qyx9HN6A/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Choose Relevant Studies",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD63mztvY/zu26F2LNpMIt--iE7wWkZQ/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Text Each Student After Your Study",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD69hff9U/17-04GwR1L2jI786iwms5A/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Spending Time",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH_hbZXs/XdggjJpQg_iNSlXEixlo7Q/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "There’s No “Right Way",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7EPL8GE/YpKVqeH-fugzBp29oVj1XQ/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "There’s No “Right Way” DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOHdxElQ/I-Th7pwyT2-RESEmdbRq2Q/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Be Welcoming",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7DrKC-Y/cbgjzAw3_AGysoUI0YfciQ/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Be Welcoming DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOP4wzeE/PRos-uQ6bFNV6S-CMmp8pw/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Hang Out",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7FCwqS8/R-CiDXHPP-DFq0Sbj_sqoA/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Hang Out DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOfxm7dY/E6qv-ZTrB8KwQLZ1c0L8XA/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Review",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7CEwM-A/sjDzqc193r-hbEBskueBpA/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Review DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOWlyvA8/RwFu-6YsAbsn979BdXGXdQ/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Lead the Study",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7JiVu2o/WMgEH_AU8-2pmqHVogl1kg/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Lead the Study DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOcfgpNg/l1JNGCcjtr48ruQqvuNXAg/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Decide on Action Steps",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7ADiiMY/XD7VaeLBJ3wOqIbO_YsqfA/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Decide on Action Steps DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOSVARqk/2kQJ4B0H6ka2IY5GE41YMQ/view",
+     "words": false,
+     "dark": true,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Pray",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD7OLss2M/QbksHeVtkRXHxD13qlzyTg/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Pray DARK MODE",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAGgOT08Of4/4SvL2xLfAvtDhH0GqD7vow/view",
+     "words": false,
+     "dark": true,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "5 Ways to Prepare for Leading a Thrive Study",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH1QMSAI/Of7FweMy35Y_HKfJU8_WNQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Go through the study yourself ahead of time",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJrrTlic/SGAe7G3mvOdHhc8Bk2sKIw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Check the Idea Box for Creative Teaching Elements",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6IiZbsQ/bvuXai8-XaspA0LzFyYFoQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Text your Group to Remind them of your Meeting",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD69hff9U/17-04GwR1L2jI786iwms5A/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Pray for Each Member of your Group Individually",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJ8NsLjU/G_rBOmsNGOSPl_NGDY_KyA/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Grab some Delicious Snacks for the Group",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6mN3RM0/f6nzmedMdhTWCoU-p2B4Qw/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Leading a Great Discussion",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFDH6sXVME/s1MgPfyVB5yzzwWMLLBQsg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Silence is OK",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJasDe7k/BoFgNkRBWFWCGXd1suZvXQ/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "It’s OK to Call on People",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJbuJ11c/hKol6G98RM3HTXmbkPukXg/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "“That’s good, does anyone else have anything to add?”",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJcU1VhY/R2eMz6PjkEhUMBjLMbp2Nw/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Be a Good Listener",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFD6z5W3wE/VMs8_OuzBqFVc3Qyx9HN6A/view",
+     "words": false,
+     "w": 250,
+     "h": 250
+    },
+    {
+     "name": "Ask Open-Ended Questions",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFEJXLrL7I/AR8uaSTHVPAIbtkgL4iL2Q/view",
+     "words": false,
+     "w": 350,
+     "h": 350
+    },
+    {
+     "name": "Icebreakers",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFE0iwqb1A/hSdSNXRhzDQhXxi1pEoIIQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Answers to Tough Questions",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFE0x5L9fE/Y7GLgBZvUSuJu40azHiGQQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Give us Feedback",
+     "type": "Carousels",
+     "url": "https://www.canva.com/design/DAFE0yiWx8s/Wn0zDqPymjV4OctQ5_igXw/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    }
+   ]
+  },
+  {
+   "name": "Website Images",
+   "images": [
+    {
+     "name": "Share Your Ideas Button",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD-nIbeunw/uXaUcdIDfZcPZbPZ9zfQzA/view",
+     "words": true,
+     "w": 820,
+     "h": 312
+    },
+    {
+     "name": "The Study Header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DADLnYe5CDg/ina1Q9-lNIdIowcKbKtJpg/view",
+     "words": true,
+     "w": 1200,
+     "h": 250
+    },
+    {
+     "name": "FEEDBACK FORM header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD1LixcwcI/Hofk--9LA3IaCFLv3ASvGA/view",
+     "words": true,
+     "w": 1920,
+     "h": 500
+    },
+    {
+     "name": "BUTTON Lead a Thrive Study",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD3fYD0apY/DfEmO_jAsG8X6lH4Dojiyg/view",
+     "words": true,
+     "w": 816,
+     "h": 264
+    },
+    {
+     "name": "Thrive Site Header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD3foCq32o/SKqt3NltaYq_cSGXpJClzQ/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "BUTTON Feedback",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD8DqlK1xc/2kgQhTPcHLmVz5U9TBXS-A/view",
+     "words": true,
+     "w": 816,
+     "h": 264
+    },
+    {
+     "name": "IDEA BOX logo",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD8Dlhydck/Ee4c9VQAIEWgRB3KYmNb-w/view",
+     "words": true,
+     "w": 1200,
+     "h": 150
+    },
+    {
+     "name": "IDEA BOX series header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD8uAbaPsc/7b9cealqMlYTVKzUj_b8Ag/view",
+     "words": false,
+     "w": 1200,
+     "h": 300
+    },
+    {
+     "name": "BUTTON Check out our Topics",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD9o3QgeSQ/mWnQCvfv5M7lfi--UKpF0A/view",
+     "words": true,
+     "w": 816,
+     "h": 264
+    },
+    {
+     "name": "Download Site Header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD35HvGY6o/xpTEI9CpB_uJrDrHD-FS-Q/view",
+     "words": false,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "Idea Box Logo",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD7gt-vT7A/XxZB8U445LxKX8JfcOnORA/view",
+     "words": true,
+     "w": 1500,
+     "h": 200
+    },
+    {
+     "name": "Alternate Paths Header",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD9CvVp6MQ/ErIQbGB3PcrSFZEbKIK5QQ/view",
+     "words": true,
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "name": "THRIVE phone",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD3-a8wa_w/T9nVkvEYYlSUriWAlyTzCQ/view",
+     "words": false,
+     "w": 1056,
+     "h": 1056
+    },
+    {
+     "name": "Review Cards Icon",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD8Dqwk6KQ/ya40gsnKatfF-H8JYC7rsg/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thrive Paper and Phone",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD3-Z7Pq2g/y0br_UHDPf86JTQDIAlMXQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thrive Site circle image",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD5jWJGapE/MrBNXHaD0ODXBvEZhh9BTQ/view",
+     "words": false,
+     "w": 500,
+     "h": 500
+    },
+    {
+     "name": "Thrive Phone with Circle",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DAD9o4p9E4s/5S5Ao1WCJlX0FvKHHusZmg/view",
+     "words": false,
+     "w": 1056,
+     "h": 1056
+    },
+    {
+     "name": "Thrive Website on Computer",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DACykLKwWEo/v9WcEJIH2ugGbGF3lo6bUA/view",
+     "words": false,
+     "w": 1024,
+     "h": 768
+    },
+    {
+     "name": "3 ways to use Thrive",
+     "type": "Website Images",
+     "url": "https://www.canva.com/design/DACu2PCsab8/oPut57Tkr97UWsDCPog94w/view",
+     "words": true,
+     "w": 1024,
+     "h": 512
+    }
+   ]
+  }
+ ]
+}
