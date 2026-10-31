@@ -79,10 +79,10 @@ const allImages = L => L.series.flatMap(se => se.studies.flatMap(s => s.images))
 
 function renderHome() {
   const card = L => {
-    const imgs = allImages(L).filter(i => i.type === 'Square' && !isOld(i)).slice(0, 4);
+    const imgs = allImages(L).filter(i => i.type === 'Square Shaded' && !isOld(i)).slice(0, 4);
     const n = allImages(L).filter(i => !isOld(i) && !isHidden(i)).length;
     const studies = L.series.reduce((a, se) => a + se.studies.filter(s => s.images.some(i => STD.includes(i.type))).length, 0);
-    return `<a class="lcard" href="#${L.id}"><span class="pics">${imgs.map(i => `<img src="${esc(thumbUrl(i.url))}" alt="" loading="lazy">`).join('')}</span>
+    return `<a class="lcard" href="#${L.id}"><span class="pics">${imgs.map(i => `<img src="${esc(thumbUrl(i.url))}" alt="" loading="lazy" onerror="this.remove()">`).join('')}</span>
       <span><b>${esc(L.name)}</b><small>${studies} studies · ${n} images</small></span></a>`;
   };
   const appN = DATA.appWeb.reduce((a, g) => a + g.images.length, 0);
