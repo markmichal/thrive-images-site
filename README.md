@@ -2,6 +2,8 @@
 
 A site for Thrive Studies translators. It replaces the "Thrive Images" Google Doc: every Thrive image, with its Canva template link, sorted by level, series, and study. A translator opens each template, makes their own copy, and puts it in their language.
 
+Live at **https://thriveimages.crutastic.com** (GitHub Pages from `main`; GoDaddy has a CNAME `thriveimages` → `markmichal.github.io`).
+
 A plain HTML, CSS, and JS page. No build step, no server, no sign-in.
 
 | File | What it does |
