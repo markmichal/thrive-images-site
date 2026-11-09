@@ -11,7 +11,5 @@ A public site (thriveimages.crutastic.com) that lists every Thrive Studies image
 - Write Mark's new decisions into NOTES.md with the date, the same day.
 
 ## At the end of every work session
-1. Write new decisions into NOTES.md (with the date).
-2. Save a copy of the chat: `python3 ~/Projects/project-kit/save-chat.py ~/Projects/thrive-images-site`
-3. Make a save point: `git add -A && git commit -m "<what changed and why>"`. Don't push unless Mark says so.
-4. Back up: `~/Projects/project-kit/backup-projects.sh ~/Projects/thrive-images-site` (copies only what the save point tracks, plus chats).
+Follow the routine in ~/AI Projects/AGENTS.md (one place for every project). For this project:
+- Write new decisions into NOTES.md (with the date).
