@@ -18,3 +18,4 @@ None written down yet.
 ## History
 - 2026-10-31: Built the site from the Google Doc, moved it to thriveimages.crutastic.com, fixed the home cards.
 - 2026-11-09: Project kit added (AGENTS.md, CLAUDE.md, these notes).
+- 2026-11-16: Fixed 69 broken template links (in the Google Doc and data/designs.json). Most old Thrive designs open only from Mark's Gmail Canva account (High School Innovation team), not his Cru one, so new template links are made there. 58 still broken (54 locked to someone else, 3 logos gone, 1 Russian TRUST header): list in tools/bad-links-2026-11-15.md.
