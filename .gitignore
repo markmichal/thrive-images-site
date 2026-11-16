@@ -6,3 +6,6 @@ __pycache__/
 !.env.example
 chats/
 node_modules/
+
+# Link check page (has Canva editor links)
+review/
